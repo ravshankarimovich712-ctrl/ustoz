@@ -1,0 +1,7 @@
+{
+  "name": "Ustoz – Vatan taraqqiyotining buyuk bunyodkori",
+  "description": "Ustozlar va murabbiylar kuniga bagʻishlangan interaktiv taqdimot va platforma.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
